@@ -59,6 +59,10 @@ paddler agent --management-addr 127.0.0.1:8060 --slots 4
 
 Read more about the [installation](https://paddler.intentee.com/docs/introduction/installation/) and [setting up a basic cluster](https://paddler.intentee.com/docs/starting-out/set-up-a-basic-llm-cluster/). 
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Paddler/)
+
 ## Documentation and resources
 
 - Visit our [documentation page](https://paddler.intentee.com/docs/introduction/what-is-paddler/) to install Paddler and get started with it. 
